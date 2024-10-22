@@ -1,0 +1,48 @@
+.ss{background-color:lime;}
+nav ul{
+    display: flex;
+}
+nav li{list-style: none;
+margin-right: 10px;
+padding: 10x;
+}
+nav li a{text-decoration: none;
+color: red;
+}
+nav li:hover{background-color: red;
+}
+nav li .xx{display: none;
+    position: absolute;
+    background-color: skyblue;
+    padding-left: 15px;
+}
+nav li:hover > .xx{
+    display: block;
+}
+#c{background-color: red;
+}
+sub{color: red;
+}
+sup{color: red;
+}
+small{color: red;
+}
+address{color: red;
+}
+#aa{color: red;
+}
+em{color: red ;
+}
+#mm{color: red;
+}
+table{border-collapse: collapse;}
+td,th{border: solid purple;
+    padding: 10px 20px;
+}
+abbr{color: red;
+}
+#mn{background-color: red;}
+h2,h3,h4,h5,h6{color: red;}
+i{color: red;}
+strong{color: red;}
+blockquote{color: red;}
